@@ -3,9 +3,9 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {Java} no {Dio}.
-- 💼 Trabalhando como {Analista e Desenvolvedor de software} na {magazine Aragão}.
-- 🌱 Aprendendo mais sobre {spring-boot,back-end java}.
+- 🎓 Estudando {LARAVEL}
+- 💼 Trabalhando como {Analista e Desenvolvedor de software} na {facilita Móveis}.
+- 🌱 Aprendendo mais sobre {PHP LARAVEL}.
 
 ## Minhas Habilidades
 
@@ -37,7 +37,7 @@
   < img  height = " 180em "  src = " https://github-readme-stats.vercel.app/api?username=mateuscoddin&theme=dracula&show_icons=true " />
 </a>​​
 
-## Onde eu encontrar
+## Onde me encontrar
 
 [ ![ Linkedin ] ( https://img.shields.io/badge/-mateus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN )] ( https://www.linkedin .com/in/mateus-alves-b98612248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 [ ![ Emblema do Gmail ] ( https://img.shields.io/badge/-mateus.afestudos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL )] ( mailto: SEU-EMAIL )
